@@ -1,1 +1,2 @@
-# slingshot-mango
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
